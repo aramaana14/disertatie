@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-spring-boot-mongodb-starter.iml" filepath="$PROJECT_DIR$/java-spring-boot-mongodb-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qe-dashboard.iml" filepath="$PROJECT_DIR$/qe-dashboard.iml" />
+    </modules>
+  </component>
+</project>

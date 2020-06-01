@@ -1,0 +1,6 @@
+
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ƒïİ–.
+asquid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(¤¤88µ¥¯—.
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( û³üÿÿÿÿ8ƒïİ–.
+csquid:UselessImportCheck
+"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ8ƒïİ–.
